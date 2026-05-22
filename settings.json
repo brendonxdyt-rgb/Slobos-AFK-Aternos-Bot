@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "000zeri.aternos.me", 
-    "port": 27586, 
+    "port": 25565, 
     "version": "",
     "try-creative": false
   },
